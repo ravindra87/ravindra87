@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./ravi.png
 
 # Hey there, I am Ravindra Rawat👋!
 
