@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-# Hey there, I am Abhay Bhardwaj👋!
+# Hey there, I am Ravindra Rawat👋!
 
 I’m a MERN Developer and CS underGrad living in Uttrakhand,India.
 
